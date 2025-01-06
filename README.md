@@ -2,7 +2,7 @@
 
 Welcome to the **AI Masterclass** repository! This comprehensive course takes you from a complete beginner in AI to an advanced practitioner capable of working with **state-of-the-art (SOTA) technologies** like **Large Language Models (LLMs)** and **Autonomous AI Agents**.
 
----
+
 
 ## 🧭 **Course Overview**  
 
@@ -20,7 +20,7 @@ The course is structured into four levels:
 4. **State-of-the-Art AI (Expert)**  
    - Master LLMs, AI agents, multi-modal systems, and deployment strategies.  
 
----
+
 
 ## 🛠️ **Tools, Languages, and Frameworks**  
 
@@ -38,7 +38,6 @@ The course is structured into four levels:
 - Firebase (hosting, DB, etc)
 - Flutter (Mobile Apps)
 
----
 
 ## 🧪 **Projects and Hands-on Labs**  
 
@@ -48,7 +47,7 @@ This course includes practical, hands-on projects to reinforce learning (All pla
 - **Image Classifier and Chatbot** (Advanced)    `placeholder`
 - **Fine-tuned LLM and Multi-Agent System** (Expert)    `placeholder`
 
----
+
 
 ## 🚀 **Final Project: AI Portfolio**  
 
@@ -57,7 +56,7 @@ As a final capstone project, you will build a portfolio that includes:
 2. An **autonomous multi-agent system**.    `placeholder`
 3. A **deployed AI application** on a cloud platform.    `placeholder`
 
----
+
 
 ## 📖 **How to Use this Repository**  
 
@@ -65,3 +64,21 @@ As a final capstone project, you will build a portfolio that includes:
    ```bash
    git clone https://github.com/mhamdanx/ai-masterclass.git
    cd ai-masterclass
+
+
+## 🎯 Learning Outcomes
+By the end of this course, you will:
+- ✅ Understand the fundamentals of AI and machine learning.
+- ✅ Be able to build and deploy deep learning models.
+- ✅ Master advanced topics like LLMs, NLP, and autonomous agents.
+- ✅ Have a portfolio of AI projects to showcase your skills.
+
+
+## 🤝 Connect with Us
++ 💼 LinkedIn TBD
+- 📧 Email: TBD
+- 🌐 Website: AI Masterclass / TBD
+
+## 📢 Contributing
+We welcome contributions to improve this repository! Please open an issue or submit a pull request with your suggestions.
+
